@@ -1,0 +1,2 @@
+graft ./rawtimer
+exclude ./rawtimer/__pycache__/*
